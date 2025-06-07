@@ -99,11 +99,33 @@ Welcome to the **Classic Snake Game** - a carefully crafted recreation of the ti
 
 ---
 
+## 🚀 **Quick Play (No Installation Required!)**
+
+### 🎮 **Instant Download & Play**
+
+Want to play immediately without any setup? Download the portable version:
+
+**[📥 Download SnakeGame_Portable_v1.0.zip](https://github.com/sharmaram25/Snake-Game-C-language-/raw/master/SnakeGame_Portable_v1.0.zip)**
+
+🎯 **Just 3 simple steps:**
+1. **Download** the ZIP file above
+2. **Extract** it anywhere on your computer  
+3. **Double-click** `SnakeGame.exe` to start playing!
+
+✨ **Features of Portable Version:**
+- 📦 **Zero Installation** - No setup required
+- 🚀 **Instant Play** - Just extract and run
+- 💾 **Self-Contained** - All libraries included
+- 🔒 **Safe** - No system modifications needed
+- 📱 **Portable** - Run from USB drive or any folder
+
+---
+
 ## 🛠️ Installation & Setup
 
-### 🚀 **Quick Start (Recommended)**
+### 🚀 **Quick Start (For Developers)**
 
-The easiest way to get up and running in just a few clicks:
+If you want to build from source, here's the easiest way:
 
 ```batch
 # 1. Complete Automatic Setup (Downloads everything and builds)
